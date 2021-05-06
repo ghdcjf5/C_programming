@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "201111_operator", "201111_operator\201111_operator.vcxproj", "{BB8CA653-4495-4CDA-A435-079E3EDA0400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8CA653-4495-4CDA-A435-079E3EDA0400}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB8CA653-4495-4CDA-A435-079E3EDA0400}.Debug|Win32.Build.0 = Debug|Win32
+		{BB8CA653-4495-4CDA-A435-079E3EDA0400}.Release|Win32.ActiveCfg = Release|Win32
+		{BB8CA653-4495-4CDA-A435-079E3EDA0400}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

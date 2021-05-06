@@ -1,0 +1,4 @@
+C:\visualC\portDataReceived\portDataReceived\bin\Debug\portDataReceived.exe
+C:\visualC\portDataReceived\portDataReceived\bin\Debug\portDataReceived.pdb
+C:\visualC\portDataReceived\portDataReceived\obj\x86\Debug\portDataReceived.exe
+C:\visualC\portDataReceived\portDataReceived\obj\x86\Debug\portDataReceived.pdb
